@@ -15,7 +15,7 @@ System.out.println("client Phone no is "+Phone);
 System.out.println("client budget for building Garage is="+budget);
 
 // Create a currency for INR
-      Currency cur1 = Currency.getInstance("INR");
+      Currency cur1 = Currency.getInstance("USD");
 
       // Get and print the symbol of the currency
       String symbol = cur1.getSymbol();
